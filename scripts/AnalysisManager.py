@@ -7,7 +7,7 @@ from math import *
 import MButils
 
 ##### Set up list of runs which are to be omitted from the Energy Calibration
-omittedRuns = [17381,17383,17385,17382,17886,17912,19232]
+omittedRuns = [17383,17385,17382,17886,17912,19232]
 omittedRanges = [(19347,19364),(18020,18055)]
 
 for Range in omittedRanges:
